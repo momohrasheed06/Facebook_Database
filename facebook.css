@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #eeffee;
+}
+section{
+    width: 45%;
+    background-color: white;
+    padding: 25px 0 25px 0;
+    margin: 100px 200px 100px 350px;
+
+}
+.main-header{
+    background-color: #3b5998;
+    color: white;
+    padding: 20px 0px 1px 100px;
+}
+.logo{
+    width: 10%;
+}
+form{
+    text-align: center;
+}
+form input {
+    width: 55%;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    border: none;
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+    background-color: #3b5998;
+    color: white;
+}
+#signup{
+    background-color: #008000;
+    width: 40%;
+}
